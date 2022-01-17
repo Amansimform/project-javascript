@@ -1,0 +1,53 @@
+.container{
+    text-align: center;
+    margin-top: 23px; 
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 7px;
+    font-size: 20px;
+    border: 2px solid;
+    width: 383px;
+    
+}
+
+button{
+    border-radius: 7px;
+    font-size: 16px;
+    background-color:white;
+    width: 75px;
+    height: 30px;
+}
+
+.middle-options{
+    display: inline-flex;
+    
+}
+.trigonometry{
+    display: flex;
+    position: relative;
+    left: -35px;
+}
+
+.functions{
+    display: flex;
+    position: relative;
+    
+}
+
+.f{
+    position: relative;
+    left: -10px;
+}
+
+.box{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: rgb(243, 220, 220);
+    border-radius: 7px;
+    padding: 9px;
+}
